@@ -24,7 +24,7 @@ Technical Evidence: Verified via Chrome DevTools Network logs, identifying high 
 Project Deliverables
 You can review the detailed documentation below:
 
-Test Cases Document: Includes positive and negative scenarios for Login, Product Cart, and Checkout flows.
+Sauce-Demo Test Cases Document: Includes positive and negative scenarios for Login, Product Cart, and Checkout flows.
 
 Bug Report Document: Detailed bug logs with Steps to Reproduce, Severity/Priority, and Screenshots as evidence.
 
