@@ -1,19 +1,19 @@
 # SauceDemo-QA-Testing-Project
 Comprehensive Manual and Performance Testing for SauceDemo website.
 Project Overview
-This project focuses on the End-to-End Manual and Performance Testing of the SauceDemo (Swag Labs) e-commerce application. The goal was to validate functional stability and analyze backend performance bottlenecks using industry-standard tools.
+This project focuses on the End-to-End Manual and Performance Testing of the SauceDemo (Swag Labs) e-commerce application. The goal was to validate functional stability and analyze performance bottlenecks using industry-standard tools.
 
  Tools & Environment
 Testing Type: Manual Functional Testing, Negative Testing, Performance Testing.
 
-Tools: Chrome DevTools (Network Panel, Waterfall Analysis, Lighthouse).
+Tools: Chrome DevTools
 
 Documentation: MS Excel (Test Cases), MS Word (Bug Reports).
 
 Environment: Windows 11 | Google Chrome (Latest Version).
 
  Performance Analysis Results
-One of the key findings of this project was the significant performance discrepancy between user roles:
+One of the key findings of this project was the significant performance between user roles:
 
 Standard User: Fully loaded in approximately 762ms (0.76s).
 
